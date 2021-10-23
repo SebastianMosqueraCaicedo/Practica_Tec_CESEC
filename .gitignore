@@ -31,8 +31,10 @@ ExportedObj/
 *.mdb
 *.opendb
 *.VC.db
-.Assets/GoogleVR
-.Assets/Plugins
+
+# Binaries and custom/local only
+Assets/Plugins/
+Assets/GoogleVR/
 
 # Unity3D generated meta files
 *.pidb.meta
